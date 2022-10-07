@@ -7,4 +7,3 @@ List of Topics -
 3. Packet Sniffing
 4. Ethernet frame from raw packets
 5. IP headers from Ethernet frames
-6. Creating a TCP server
